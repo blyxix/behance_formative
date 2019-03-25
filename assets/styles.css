@@ -144,6 +144,17 @@ body {
 
 #designer{
 	position: fixed;
+	z-index: 99; 
+}
+
+.filler2{
+	background-color: white;
+	padding: 0;
+	position: fixed;
+    background: white;
+    z-index: 2;
+    height: 100vh;
+    margin-left: 20px;
 }
 
 
